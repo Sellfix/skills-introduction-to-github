@@ -1,1 +1,2 @@
-Welcome to my GitHub profile!
+Getting to know the PineScript mastery. 
+GM
